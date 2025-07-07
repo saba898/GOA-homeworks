@@ -1,0 +1,18 @@
+name = "saba zhorzholiani"
+country = "france"
+car = "bmw"
+smartphone = "samsung"
+
+
+print(name,country,car,smartphone)
+
+name1 = "tamar potskhveria"
+name2 = "amiran razmadze"
+name3 = "davit zhorzholiani"
+name4 = "zurab potskhveria"
+
+
+print(name1)
+print(name2)
+print(name3)
+print(name4)
